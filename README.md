@@ -4,7 +4,7 @@ This project is a cloud-native microservices Best Buy application. The applicati
 
 ##  Architecture Diagram
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](/architecture.png)
 
 ### Application Overview
 The application is composed of five distinct microservices:
@@ -14,9 +14,11 @@ The application is composed of five distinct microservices:
 4.  **Product Service:** A backend service that manages the inventory and product details.
 5.  **Makeline Service:** A backend service simulating the processing/fulfillment of orders.
 
-## 🎥 Project Demo / YouTube Walkthrough
+##  Project Demo / YouTube Walkthrough
 
-[**Click here to watch the demo video**](YOUTUBE_LINK_HERE)
+[**Click here to watch the demo video**]
+(https://youtu.be/OWZJNxz1RcE)
+
 ##  Service Links & Docker Images
 
 | Service | Docker Hub Image | Source Code (GitHub) |
